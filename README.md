@@ -15,27 +15,35 @@ Software Tools: Realm, Alamofire, Docker, Vagrant, TravisCI, Django, Angular.js,
 
 
 ## EXPERIENCE
-Webmaster, C-STEM Center, UC Davis;                                                                     (March 2016 ~ Present)
+
+### Webmaster, C-STEM Center, UC Davis;                                                                     (March 2016 ~ Present)
 
 Maintaining and developing the main website for C-STEM Center in UC Davis
+
 Working with a team consisting of people with different skill sets and cultural backgrounds
+
 Arranging C-STEM events for middle school and high school teachers and students 
 
-Software Developer, Personal Projects;                                                                        (2015 ~ Present) 
+### Software Developer, Personal Projects;                                                                        (2015 ~ Present) 
 
 StickerApp (Swift/Shell): An app that gathers iMessgae stickers so users can purchase and use them within the app directly
+
 Acadenet (Swift/Ruby): An app that help students within a classroom connect to each other. Users can setup a course discussion group during lecture based on their location and time 
 
-Undergrad Researcher, DECAL lab, UC Davis;                                                                (Jan 2015 ~ Present)
+### Undergrad Researcher, DECAL lab, UC Davis;                                                                (Jan 2015 ~ Present)
 
 Working on project Bugswarm which focuses on generating a database of bug fixes using resources from Github and TravisCI
+
 Web development for the lab website as well as data gathering from Github
+
 Learning about data analysis related project including python, sql and data statistic
 
-HackingEDU 2015 Attendant, Software Developer, San Francisco;                                                   (October 2015)
+### HackingEDU 2015 Attendant, Software Developer, San Francisco;                                                   (October 2015)
 
 Link to the Project: https://github.com/NetBUG/classintouch
+
 Meeting and collaborating with software developers on a single project for 48 hours 
+
 Back end (Python) and front end (Swift) development experience for mobile application 
 
 
