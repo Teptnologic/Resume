@@ -1,10 +1,8 @@
 # Resume
 
 Ethan(Yichen) Wang
-ethan.wang.c@gmail.com, 925-997-1828
-Campus Address:                                                                                                            Permanent Address:
-919 Drake Dr #174                                                                                                              22205 West Lyndon
-Davis, CA, 95616                                                                                                        Castro Valley, CA, 94552
+
+ethan.wang.c@gmail.com
 
 ## EDUCATION
 
